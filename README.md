@@ -14,10 +14,12 @@
 </p>
 
 <p align="center">
-    <img align="center"
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=AMUDENN&repo=SteamStorageAPI&show_owner=false&bg_color=ffffff&text_color=586e75&title_color=586e75&icon_color=586e75"
-        alt="amudenn" width="49%" />
-    <img align="center"
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=AMUDENN&repo=SteamStorage&show_owner=false&bg_color=ffffff&text_color=586e75&title_color=586e75&icon_color=586e75"
-        alt="amudenn" width="49%" />
+    <a href="https://github.com/AMUDENN/SteamStorageAPI">
+        <img align="center"
+            src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=AMUDENN&repo=SteamStorageAPI&show_owner=false&bg_color=ffffff&text_color=586e75&title_color=586e75&icon_color=586e75"
+            alt="amudenn" width="49%" /></a>
+    <a href="https://github.com/AMUDENN/SteamStorage">
+        <img align="center"
+            src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=AMUDENN&repo=SteamStorage&show_owner=false&bg_color=ffffff&text_color=586e75&title_color=586e75&icon_color=586e75"
+            alt="amudenn" width="49%" /></a>
 </p>
