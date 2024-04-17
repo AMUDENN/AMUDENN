@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-    <img align="left" width="49%" style="margin-left: 20%;"
+    <img align="left" width="49%" style="margin-left: 20vw;"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=amudenn&show_icons=true&locale=en&layout=compact"
         alt="amudenn" />
 </p>
