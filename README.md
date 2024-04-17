@@ -9,7 +9,7 @@
         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AMUDENN&theme=default"
         alt="amudenn" width="49%" />
     <img align="center"
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AMUDENN&theme=default"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AMUDENN&utcOffset=3&theme=default"
         alt="amudenn" width="49%" />
 </p>
 
